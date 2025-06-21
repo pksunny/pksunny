@@ -8,17 +8,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2>🧑‍💻 About Me</h2>
 
-🎯 I help businesses turn their app ideas into **beautiful, functional, and scalable Flutter apps**.
+<p>🎯 I'm a <strong>solution-focused Flutter developer</strong> dedicated to transforming bold ideas into fast, reliable, and scalable apps.</p>
 
-💡 With over **2.5 years of professional experience**, I specialize in:
-- 💬 AI-powered interfaces (chatbots, voice narration)
-- 📲 Cross-platform mobile development (Android & iOS)
-- 🔥 Firebase, REST APIs, Cloud Functions, Firestore
-- 📈 Product optimization, clean UI/UX, and performance
+<p>💡 With over <strong>2.5 years of hands-on experience</strong>, I bring more than just code — <strong>I bring results</strong>.</p>
 
-🔁 From **concept** to **deployment**, I take ownership of every pixel and logic.
+<h3>🚀 Here's what I specialize in:</h3>
+
+<ul>
+  <li>🤖 <strong>AI-powered interfaces</strong>: From smart chatbots to interactive voice narration (TTS), using OpenAI and Google Cloud AI.</li>
+  <li>📲 <strong>Cross-platform mobile development</strong>: Building seamless Android & iOS apps using Flutter.</li>
+  <li>🔥 <strong>Backend integration expert</strong>: Deeply experienced with Firebase, Firestore, RESTful APIs, and Cloud Functions.</li>
+  <li>🧠 <strong>Performance-focused design</strong>: Speed-optimized apps with clean UI/UX, responsive layouts, and pixel-perfect interfaces.</li>
+  <li>🎯 <strong>App store ready delivery</strong>: Complete lifecycle deployment on Google Play Store & Apple App Store.</li>
+  <li>🧰 <strong>State management mastery</strong>: GetX, Provider, BLoC, and Riverpod used for dynamic, maintainable apps.</li>
+  <li>🌐 <strong>Advanced features</strong>: In-App Purchases, Push Notifications, Deep Linking, SQLite/Hive offline support.</li>
+</ul>
+
+<p><strong>I don’t just build apps — I build tools that scale, inspire, and solve real-world problems.</strong></p>
 
 ---
 
