@@ -33,16 +33,47 @@
 ## 🚀 My Tech Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-6E6E6E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hive-F6C915?style=for-the-badge&logo=apachehive&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GetX%20%7C%20Provider%20%7C%20BLoC%20%7C%20Riverpod-5E35B1?style=for-the-badge&logo=flutter"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fastlane-E90E63?style=for-the-badge&logo=fastlane&logoColor=white"/>
+
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </a>
+
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  </a>
+
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  </a>
+
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/REST%20API-6E6E6E?style=for-the-badge" alt="REST API"/>
+  </a>
+
+  <a href="https://pub.dev/packages/sqflite" target="_blank">
+    <img src="https://img.shields.io/badge/SQFlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQFlite"/>
+  </a>
+
+  <a href="https://pub.dev/packages/hive" target="_blank">
+    <img src="https://img.shields.io/badge/Hive-F6C915?style=for-the-badge&logo=apachehive&logoColor=black" alt="Hive"/>
+  </a>
+
+  <a href="https://docs.flutter.dev/data-and-backend/state-mgmt/options" target="_blank">
+    <img src="https://img.shields.io/badge/GetX%20%7C%20Provider%20%7C%20BLoC%20%7C%20Riverpod-5E35B1?style=for-the-badge&logo=flutter" alt="State Management"/>
+  </a>
+
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  </a>
+
+  <a href="https://docs.fastlane.tools/" target="_blank">
+    <img src="https://img.shields.io/badge/Fastlane-E90E63?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"/>
+  </a>
+
 </p>
 
 ---
@@ -94,7 +125,16 @@
 
 ---
 
+---
+
 <p align="center">
-  <strong>⚡ Let's build something people love.</strong><br/>
-  📲 <a href="https://wa.me/+923121529141">Message me on WhatsApp</a> or 📧 <a href="mailto:sunnypk0312@gmail.com">send an email</a>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="60"/><br/>
+  <strong style="font-size:20px;">⚡ Ready to elevate your app idea into something unforgettable?</strong><br/><br/>
+
+  ✅ Whether you're a founder, startup, or business — I can help you <strong>build faster, smarter, and more beautifully</strong>.<br/><br/>
+
+  👉 <a href="https://wa.me/+923121529141"><strong>Click here to message me instantly on WhatsApp</strong></a>  
+  <br/>📧 or <a href="mailto:sunnypk0312@gmail.com"><strong>Send me an email right now</strong></a><br/><br/>
+
+  💥 Let's build something people love, use daily, and rave about.
 </p>
