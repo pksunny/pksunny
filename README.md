@@ -171,9 +171,6 @@
   <a href="mailto:sunnypk0312@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a><br/><br/>
-
-  🔥 <strong>Let’s create an app that users love, use daily, and remember forever.</strong><br/>
-  ⏳ <i>Spots open for limited collaborations — let’s talk today!</i>
 </p>
 
 ---
