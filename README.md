@@ -151,16 +151,29 @@
 
 ---
 
----
+## ⚡ Let's Build Something People Can’t Stop Using
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="60"/><br/>
-  <strong style="font-size:20px;">⚡ Ready to elevate your app idea into something unforgettable?</strong><br/><br/>
+  <strong style="font-size: 22px;">🚀 Ready to turn your app idea into a real-world product?</strong><br/><br/>
 
-  ✅ Whether you're a founder, startup, or business — I can help you <strong>build faster, smarter, and more beautifully</strong>.<br/><br/>
+  🎯 Whether you're a <b>startup founder</b>, <b>agency</b>, or <b>growing business</b> — I help bring ideas to life with:<br/>
+  ✅ <b>Stunning UIs</b><br/>
+  ✅ <b>Rock-solid performance</b><br/>
+  ✅ <b>Scalable backend integration</b><br/>
+  ✅ <b>Real-time features powered by AI & Firebase</b><br/><br/>
 
-  👉 <a href="https://wa.me/+923121529141"><strong>Click here to message me instantly on WhatsApp</strong></a>  
-  <br/>📧 or <a href="mailto:sunnypk0312@gmail.com"><strong>Send me an email right now</strong></a><br/><br/>
+  💼 I've helped clients launch apps that inspire, scale fast, and drive user engagement by up to <b>+45%</b>.<br/><br/>
 
-  💥 Let's build something people love, use daily, and rave about.
+  <a href="https://wa.me/+923121529141" target="_blank">
+    <img src="https://img.shields.io/badge/💬%20Let's%20Talk%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a><br/><br/>
+
+  <a href="mailto:sunnypk0312@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a><br/><br/>
+
+  🔥 <strong>Let’s create an app that users love, use daily, and remember forever.</strong><br/>
+  ⏳ <i>Spots open for limited collaborations — let’s talk today!</i>
 </p>
+
+---
