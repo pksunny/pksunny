@@ -70,23 +70,49 @@
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   </a>
 
-  <a href="https://docs.fastlane.tools/" target="_blank">
-    <img src="https://img.shields.io/badge/Fastlane-E90E63?style=for-the-badge&logo=fastlane&logoColor=white" alt="Fastlane"/>
-  </a>
-
 </p>
 
 ---
 
 ## 📱 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**FlyQuotes**](https://play.google.com/store/apps/details?id=flyquotes.com) | Daily quote & motivation app with personalized widgets. | Flutter, Firebase |
-| [**AI Text Scanner**](https://play.google.com/store/apps/details?id=com.maab.textscannerai) | OCR-based scanner with Google Vision and PDF support. | Flutter, AI, GCP |
-| **PursePartners** | Group expense tracker with receipt scanning and multi-currency. | Firebase, SQLite |
-| **AI Story Generator** | Auto-creates AI-powered stories with voice and images. | OpenAI API, TTS, Flutter |
-| **Dispatcher App** | Real-time driver assignment and live chat system. | Firebase, Maps, Notifications |
+<div align="center">
+
+<!-- Project 1 -->
+<a href="https://play.google.com/store/apps/details?id=flyquotes.com" target="_blank">
+  <img src="https://img.shields.io/badge/FlyQuotes-Quote%20Motivation%20App-blue?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+<br/>
+📝 Daily quotes, personalized widgets, in-app purchases<br/>
+🔧 <strong>Flutter</strong> · <strong>Firebase</strong><br/><br/>
+
+<!-- Project 2 -->
+<a href="https://play.google.com/store/apps/details?id=com.maab.textscannerai" target="_blank">
+  <img src="https://img.shields.io/badge/AI%20Text%20Scanner-OCR%20+%20PDF%20App-purple?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+<br/>
+🧠 Real-time OCR, Google Vision, multi-language support<br/>
+🔧 <strong>Flutter</strong> · <strong>AI</strong> · <strong>Google Cloud</strong><br/><br/>
+
+<!-- Project 3 -->
+<img src="https://img.shields.io/badge/PursePartners-Expense%20Manager-green?style=for-the-badge&logo=google-wallet&logoColor=white" />
+<br/>
+💸 Group expense splitting with receipts & multi-currency<br/>
+🔧 <strong>Firebase</strong> · <strong>SQLite</strong><br/><br/>
+
+<!-- Project 4 -->
+<img src="https://img.shields.io/badge/AI%20Story%20Generator-Voice%20%26%20Plot%20Creator-orange?style=for-the-badge&logo=openai&logoColor=white" />
+<br/>
+🎙️ Auto-generates characters, dialogue, and narration with AI<br/>
+🔧 <strong>OpenAI</strong> · <strong>TTS</strong> · <strong>Flutter</strong><br/><br/>
+
+<!-- Project 5 -->
+<img src="https://img.shields.io/badge/Dispatcher%20App-Live%20Delivery%20Manager-darkblue?style=for-the-badge&logo=google-maps&logoColor=white" />
+<br/>
+📦 Real-time order dispatch, live chat & GPS tracking<br/>
+🔧 <strong>Firebase</strong> · <strong>Maps</strong> · <strong>Notifications</strong>
+
+</div>
 
 ---
 
